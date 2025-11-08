@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":5,"path":"folders/objects.yy",},
+    {"name":"rooms","order":1,"path":"folders/rooms.yy",},
+    {"name":"sprites","order":4,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"enemy","order":1,"path":"objects/enemy/enemy.yy",},
+    {"name":"explosion","order":3,"path":"objects/explosion/explosion.yy",},
+    {"name":"sparklet","order":2,"path":"objects/sparklet/sparklet.yy",},
+    {"name":"enemySpr","order":1,"path":"sprites/enemySpr/enemySpr.yy",},
+    {"name":"explosionSpr","order":3,"path":"sprites/explosionSpr/explosionSpr.yy",},
+    {"name":"sparkletSpr","order":2,"path":"sprites/sparkletSpr/sparkletSpr.yy",},
+  ],
+}
